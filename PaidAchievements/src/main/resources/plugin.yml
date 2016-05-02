@@ -1,0 +1,5 @@
+name: PaidAchievements
+author: DreadedFall
+version: 0.0.1-SNAPSHOT
+description: Pays players for getting achievements
+main: io.github.dreadedfall.PaidAchievements.PaidAchievementsMain
