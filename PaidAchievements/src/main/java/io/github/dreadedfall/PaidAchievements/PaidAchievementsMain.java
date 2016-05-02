@@ -1,5 +1,8 @@
 package io.github.dreadedfall.PaidAchievements;
 
-public class PaidAchievementsMain {
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class PaidAchievementsMain extends JavaPlugin
+{
 
 }
