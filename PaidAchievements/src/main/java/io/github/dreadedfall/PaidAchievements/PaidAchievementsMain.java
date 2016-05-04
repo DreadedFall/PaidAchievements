@@ -38,4 +38,10 @@ public class PaidAchievementsMain extends JavaPlugin
 			log.info(String.format("[%s] - Enabled"));
 		}
 	}
+	
+	@Override
+	public void onDisable()
+	{
+		log.info(String.format("[%s] - Disabled"));
+	}
 }
